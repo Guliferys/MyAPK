@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">MyAPK</string>
+    <string name="hello">Hello</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="avatar">Avatar</string>
+    <string name="exit">Exit</string>
+    <string name="acc_no_exist">Account do not exist</string>
+
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="name1">First Name</string>
+    <string name="name2">Last Name</string>
+    <string name="name3">Patronimic</string>
+    <string name="done">Done</string>
 </resources>
